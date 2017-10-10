@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sagarpreetchadha/.android/build-cache/fac2d732694a1b547d1b3e963f01fd30adcc45d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5d6e60e4bf6b1a95200220b56583a7b298c4149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sagarpreetchadha/.android/build-cache/418426c207d08904d68f5371f1f7ebdc97bb5524/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11f6c714da394986a073a763c1363f51f217ed0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sagarpreetchadha/.android/build-cache/f03275d441ccdd335b620c5ddf57253d1930ae82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a52fb290ea2c21ca60288f1ae64c1e0430c90f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee614a69cb77dc05f15a1882881416d512546cf7">
+        <dex dex="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2a5712ccb38d0eca2db53ecb493b61929e3ce165/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sagarpreetchadha/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_a045b9bb42a6a1bbe09ade3aa3e18c7bb837256c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sagarpreetchadha/.android/build-cache/50aebd0fd7ff45cf67cc626066d183ba8e66781d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_238ef29085e1c795258a11d84c4ce7a5a0dd27ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_530d78a75bbbd33256f93a291920e10675c9a251/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sagarpreetchadha/.android/build-cache/8a0ae3b0ea0973b953b19884f16e610e961632af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="/Users/sagarpreetchadha/Downloads/MediaFire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f14aa381a82ea0c1a7e7acf610b66e2be82ffbf/classes.dex" />
+    </item>
+
+</items>
